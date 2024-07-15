@@ -1,2 +1,6 @@
 # atlasVolumePublic
- This project was initially conducted to register a mouse brain vascular network obtained through ultrasound localization microscopy to a mouse brain atlas.
+ <img src="/figures/AtlasVolume.png" alt="drawing"/>
+Code to manually register a volume to an atlas
+
+
+<img src="/figures/demo_sagittal.gif" alt="fig" width="50%"/>  <img src="/figures/demo_coronal.gif" alt="fig" width="40%"/>
